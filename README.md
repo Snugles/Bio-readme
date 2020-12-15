@@ -4,4 +4,6 @@ Big fan of JavaScript, React, Express, SQL (both PostgreSQL and MySQL), Mongo an
 
 I also make games in unity with C# occasionally but that's just for fun.
 
+![Decoration](./decoration.png)
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/peter-ackroyd/)!
